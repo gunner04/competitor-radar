@@ -1,0 +1,86 @@
+{
+ "unify": {
+  "date": "2026-10-18",
+  "summary": "Hands-on with a research identity on Unify's free Pro trial. We did not connect a mailbox, CRM, phone or card, so outreach was not sent.",
+  "findings": [
+   [
+    "Onboarding requires connecting Gmail or Outlook, with no skip button. The dashboard was still reachable afterwards.",
+    [
+     "unify/mailbox-wall.png",
+     "unify/mailbox-wall-clip.mp4"
+    ]
+   ],
+   [
+    "Everything is driven by an AI chat (Create / Build with chat, scheduled chats). There is no separate Agents product or AI surcharge.",
+    [
+     "unify/chat-nav.png"
+    ]
+   ],
+   [
+    "Pro trial is $0/month with 500 plan credits, ending Nov 1, 2026. Inviting a teammate earns 100 credits.",
+    [
+     "unify/trial-plan.png"
+    ]
+   ],
+   [
+    "Contact data is a waterfall over third-party providers (Universal Data, Wiza, ContactOut, Findymail, Prospeo, FullEnrich, Forager). An email costs 1-6 credits and a phone 4-15 credits, from one shared pool.",
+    [
+     "unify/enrichment-providers.png",
+     "unify/phone-credits.png",
+     "unify/shared-credits.png"
+    ]
+   ],
+   [
+    "Daily sending caps: 50 sequenced, 50 manual emails, 50 automatic emails, 100 dials and only 10 LinkedIn touches. LinkedIn is the bottleneck.",
+    [
+     "unify/daily-caps.png"
+    ]
+   ],
+   [
+    "Targeting is account-first: companies get a Low / Medium / High intent label from imports, signals or CRM sync. We saw no relationship graph comparable to LinkedIn's warm-path view.",
+    [
+     "unify/intent-companies.png"
+    ]
+   ]
+  ]
+ },
+ "apollo": {
+  "date": "2026-10-18",
+  "summary": "Self-serve signup attempt with a research email.",
+  "findings": [
+   [
+    "Apollo rejected the signup: \"Cannot sign up at this time. Please contact sales.\"",
+    [
+     "apollo/cannot-signup.png",
+     "apollo/cannot-signup-clip.mp4"
+    ]
+   ]
+  ]
+ },
+ "clay": {
+  "date": "2026-10-18",
+  "summary": "Self-serve signup attempt with a research email.",
+  "findings": [
+   [
+    "Clay locked the new account for \"fraud protection\" immediately after signup.",
+    [
+     "clay/account-locked.png",
+     "clay/account-locked-clip.mp4"
+    ]
+   ]
+  ]
+ },
+ "lusha": {
+  "date": "2026-10-18",
+  "summary": "Self-serve signup attempt with a research email.",
+  "findings": [
+   [
+    "Lusha's free signup requires a valid phone number before any access, so we stopped there.",
+    [
+     "lusha/phone-required.png",
+     "lusha/phone-required-clip.mp4"
+    ]
+   ]
+  ]
+ }
+}

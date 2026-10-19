@@ -1,7 +1,158 @@
 [
-{"t":"Agents are replacing the \"search, then act\" workflow SN is built on.","d":"Competitors now sell agents that find, research, and contact buyers on their own. SN's AI still assists a human.","ev":[["Apollo: \"the first fully agentic GTM operating system designed to replace legacy sales tools\" (2026-03-04)","https://www.apollo.io/newsroom/announcements/apollo-launches-ai-assistant-powering-end-to-end-agentic-workflows-in-the-first-ai-native-all-in-one-gtm-platform","own"],["Salesforce Prospecting Agent \"autonomously hunts, ranks, and builds\" prospect lists (2026-03-16)","https://www.salesforce.com/news/stories/agentforce-sales-announcement/","own"],["SN Sales Assistant agent announced May 2025; current status unverified","https://www.linkedin.com/posts/alexa-herskowitz_im-really-excited-to-share-something-new-activity-7330952059132764160-HdMZ","unverified"]]},
-{"t":"SN is missing from where sellers now work: Claude and ChatGPT.","d":"At least 9 competitors connect their data to AI assistants through MCP. We found no public SN equivalent.","ev":[["ZoomInfo GTM.AI connects Claude, ChatGPT, Copilot, Agentforce, Breeze (2026-06-01)","https://ir.zoominfo.com/news-releases/news-release-details/zoominfo-launches-gtmai-headless-gtm-context-layer-ground-every/","own"],["Lusha MCP on every plan including free (Oct 2026)","https://www.lusha.com/blog/your-lusha-mcp-questions-answered-webinar-recap/","own"],["Cognism MCP fully live (Sept 2026)","https://www.cognism.com/changelog","own"],["No SN MCP found: an inference from the absence of evidence","","inference"]]},
-{"t":"Seat pricing is now the outlier. Buyers are being trained to pay per result.","d":"HubSpot charges $1 per recommended lead, Salesforce about $2 per lead worked, and Monaco and Clay charge for usage with no seats. SN is $119.99 a seat.","ev":[["HubSpot: $1.00 per lead recommended for outreach (2026-04-13)","https://www.hubspot.com/company-news/hubspots-customer-agent-and-prospecting-agent-now-you-pay-when-the-task-is-complete","own"],["Salesforce rate card: Leads Worked = 400 Flex Credits (2026-08-31)","https://www.salesforce.com/en-us/wp-content/uploads/sites/4/assets/pdf/agentforce/Flex-Credits-Rate-Card-08.31.2026.pdf","own"],["Monaco: $10,000 = 1,000,000 credits, no seats","https://www.monaco.com/pricing","own"],["SN Core $119.99/mo per licence","https://business.linkedin.com/sales-solutions/compare-plans","own"]]},
-{"t":"The \"best leads\" moat is under the heaviest attack. The relationship moat is barely touched.","d":"Nine competitors push large verified contact databases at agents. Only Unify directly targets warm paths through your network.","ev":[["Unify: \"use my network (work or school overlap) to sell to Stripe\"","https://www.unifygtm.com","own"],["Lusha: 515M+ contacts; extension reveals contacts on the professional network","https://www.lusha.com","own"],["Hunter bundles ZoomInfo, Demandbase, Apollo data","https://www.linkedin.com/feed/update/urn:li:activity:7505361990823985152","own"],["Moat ratings are analyst judgment","","inference"]]},
-{"t":"LinkedIn's first-party data is still the scarcest input, and that's SN's opening.","d":"LinkedIn enforces against scrapers, and competitors market themselves as \"not scraping\". An agent-ready SN (MCP, usage tier, richer CRM feeds) would sell the one thing rivals can't copy.","ev":[["ProAPIs permanent consent judgment (2026-09-16)","https://storage.courtlistener.com/recap/gov.uscourts.cand.457309/gov.uscourts.cand.457309.36.0.pdf","third"],["ZoomInfo: \"without scraping\" (2026-06-01)","https://ir.zoominfo.com/news-releases/news-release-details/zoominfo-launches-gtmai-headless-gtm-context-layer-ground-every/","own"],["SN data in HubSpot is view-only: \"not possible to import contacts\"","https://knowledge.hubspot.com/integrations/how-to-connect-hubspot-and-linkedin-sales-navigator","own"]]}
+ {
+  "t": "Agents are replacing the \"search, then act\" workflow SN is built on.",
+  "d": "Competitors now sell agents that find, research, and contact buyers on their own. SN's AI still assists a human.",
+  "ev": [
+   [
+    "Apollo: \"the first fully agentic GTM operating system designed to replace legacy sales tools\" (2026-03-04)",
+    "https://www.apollo.io/newsroom/announcements/apollo-launches-ai-assistant-powering-end-to-end-agentic-workflows-in-the-first-ai-native-all-in-one-gtm-platform",
+    "own"
+   ],
+   [
+    "Salesforce Prospecting Agent \"autonomously hunts, ranks, and builds\" prospect lists (2026-03-16)",
+    "https://www.salesforce.com/news/stories/agentforce-sales-announcement/",
+    "own"
+   ],
+   [
+    "SN Sales Assistant agent announced May 2025; current status unverified",
+    "https://www.linkedin.com/posts/alexa-herskowitz_im-really-excited-to-share-something-new-activity-7330952059132764160-HdMZ",
+    "unverified"
+   ]
+  ]
+ },
+ {
+  "t": "SN is missing from where sellers now work: Claude and ChatGPT.",
+  "d": "At least 9 competitors connect their data to AI assistants through MCP. We found no public SN equivalent.",
+  "ev": [
+   [
+    "ZoomInfo GTM.AI connects Claude, ChatGPT, Copilot, Agentforce, Breeze (2026-06-01)",
+    "https://ir.zoominfo.com/news-releases/news-release-details/zoominfo-launches-gtmai-headless-gtm-context-layer-ground-every/",
+    "own"
+   ],
+   [
+    "Lusha MCP on every plan including free (Oct 2026)",
+    "https://www.lusha.com/blog/your-lusha-mcp-questions-answered-webinar-recap/",
+    "own"
+   ],
+   [
+    "Cognism MCP fully live (Sept 2026)",
+    "https://www.cognism.com/changelog",
+    "own"
+   ],
+   [
+    "No SN MCP found: an inference from the absence of evidence",
+    "",
+    "inference"
+   ]
+  ]
+ },
+ {
+  "t": "Seat pricing is now the outlier. Buyers are being trained to pay per result.",
+  "d": "HubSpot charges $1 per recommended lead, Salesforce about $2 per lead worked, and Monaco and Clay charge for usage with no seats. SN is $119.99 a seat.",
+  "ev": [
+   [
+    "HubSpot: $1.00 per lead recommended for outreach (2026-04-13)",
+    "https://www.hubspot.com/company-news/hubspots-customer-agent-and-prospecting-agent-now-you-pay-when-the-task-is-complete",
+    "own"
+   ],
+   [
+    "Salesforce rate card: Leads Worked = 400 Flex Credits (2026-08-31)",
+    "https://www.salesforce.com/en-us/wp-content/uploads/sites/4/assets/pdf/agentforce/Flex-Credits-Rate-Card-08.31.2026.pdf",
+    "own"
+   ],
+   [
+    "Monaco: $10,000 = 1,000,000 credits, no seats",
+    "https://www.monaco.com/pricing",
+    "own"
+   ],
+   [
+    "SN Core $119.99/mo per licence",
+    "https://business.linkedin.com/sales-solutions/compare-plans",
+    "own"
+   ]
+  ]
+ },
+ {
+  "t": "The \"best leads\" moat is under the heaviest attack. The relationship moat is barely touched.",
+  "d": "Nine competitors push large verified contact databases at agents. Only Unify directly targets warm paths through your network.",
+  "ev": [
+   [
+    "Unify: \"use my network (work or school overlap) to sell to Stripe\"",
+    "https://www.unifygtm.com",
+    "own"
+   ],
+   [
+    "Lusha: 515M+ contacts; extension reveals contacts on the professional network",
+    "https://www.lusha.com",
+    "own"
+   ],
+   [
+    "Hunter bundles ZoomInfo, Demandbase, Apollo data",
+    "https://www.linkedin.com/feed/update/urn:li:activity:7505361990823985152",
+    "own"
+   ],
+   [
+    "Moat ratings are analyst judgment",
+    "",
+    "inference"
+   ]
+  ]
+ },
+ {
+  "t": "LinkedIn's first-party data is still the scarcest input, and that's SN's opening.",
+  "d": "LinkedIn enforces against scrapers, and competitors market themselves as \"not scraping\". An agent-ready SN (MCP, usage tier, richer CRM feeds) would sell the one thing rivals can't copy.",
+  "ev": [
+   [
+    "ProAPIs permanent consent judgment (2026-09-16)",
+    "https://storage.courtlistener.com/recap/gov.uscourts.cand.457309/gov.uscourts.cand.457309.36.0.pdf",
+    "third"
+   ],
+   [
+    "ZoomInfo: \"without scraping\" (2026-06-01)",
+    "https://ir.zoominfo.com/news-releases/news-release-details/zoominfo-launches-gtmai-headless-gtm-context-layer-ground-every/",
+    "own"
+   ],
+   [
+    "SN data in HubSpot is view-only: \"not possible to import contacts\"",
+    "https://knowledge.hubspot.com/integrations/how-to-connect-hubspot-and-linkedin-sales-navigator",
+    "own"
+   ]
+  ]
+ },
+ {
+  "t": "Hands-on: the AI-native challengers gate trials hard, and Unify routes everything through chat.",
+  "d": "Apollo rejected our research signup, Clay locked it, and Lusha demanded a phone number. Unify let us in, but it insists on a connected mailbox, prices AI through one credit pool, and caps LinkedIn at 10 touches a day. That cap is where Sales Navigator's network still wins.",
+  "ev": [
+   [
+    "Unify onboarding: Connect Gmail or Outlook, no skip (hands-on, 2026-10-18)",
+    "https://app.unifygtm.com",
+    "own",
+    "unify/mailbox-wall.png"
+   ],
+   [
+    "Unify phone lookups cost 4-15 credits per task (hands-on)",
+    "https://app.unifygtm.com",
+    "own",
+    "unify/phone-credits.png"
+   ],
+   [
+    "Apollo: \"Cannot sign up at this time\" (hands-on)",
+    "https://www.apollo.io",
+    "own",
+    "apollo/cannot-signup.png"
+   ],
+   [
+    "Clay: account locked for fraud protection (hands-on)",
+    "https://www.clay.com",
+    "own",
+    "clay/account-locked.png"
+   ],
+   [
+    "Lusha: phone number required (hands-on)",
+    "https://www.lusha.com",
+    "own",
+    "lusha/phone-required.png"
+   ]
+  ]
+ }
 ]
