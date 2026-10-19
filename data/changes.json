@@ -124,5 +124,82 @@
   "type": "baseline",
   "summary": "First seen: Seamless.AI (Contact data; pricing credits; AI AI features; MCP yes)",
   "source": "https://www.prweb.com/releases/seamlessais-new-mcp-server-takes-you-from-prompt-to-closed-won-deal-302839077.html"
+ },
+ {
+  "date": "2026-10-19",
+  "competitor": "lusha",
+  "type": "ai",
+  "summary": "Deep Intelligence shipped as one product on Oct 19: daily ranked accounts and contacts with fit score and dated signal, Buying Group (beta), Website Visits (beta, company-level, Pro+), all also via API and MCP. Daily list included in plans; Buying Group reveals use credits.",
+  "source": "https://www.lusha.com/blog/deep-intelligence-who-to-call-today/"
+ },
+ {
+  "date": "2026-10-19",
+  "competitor": "zoominfo",
+  "type": "ai",
+  "summary": "Named a flagship data partner for Salesforce's Hunter outbound agent (Oct 15): data 'built into Hunter' with no separate login. Also an n8n GTM.AI node (Oct 12) and the Workbounce knowledge layer (Oct 14).",
+  "source": "https://ir.zoominfo.com/news-releases/news-release-details/zoominfo-named-flagship-data-partner-hunter-salesforces-new/"
+ },
+ {
+  "date": "2026-10-19",
+  "competitor": "hubspot",
+  "type": "pricing",
+  "summary": "AI spend controls (Oct 15): default credit cap up to 50% above monthly credits, self-serve seat-to-credit swaps mid-contract, credit packs or Pay-as-You-Go. Prospecting Agent stays at $1 per recommended lead.",
+  "source": "https://www.hubspot.com/company-news/flexible-pricing"
+ },
+ {
+  "date": "2026-10-19",
+  "competitor": "gong",
+  "type": "ai",
+  "summary": "Gong Enrich (Sep 30, Celebrate '26): native enrichment with launch partners Apollo, LeadIQ, Lusha, ZoomInfo and others; LinkedIn not listed. Also Agent Builder and Deep Mode.",
+  "source": "https://www.gong.io/press/new-revenue-ai-innovation-celebrate-26"
+ },
+ {
+  "date": "2026-10-19",
+  "competitor": "apollo",
+  "type": "x",
+  "summary": "Promoted the Messaging OS beta on X (Oct 19): 'uses buying signals to help decide who to reach, when, and on which channel'. Still a waitlist.",
+  "source": "https://x.com/useapolloio/status/2112186733169405990"
+ },
+ {
+  "date": "2026-10-19",
+  "competitor": "unify",
+  "type": "mail",
+  "summary": "Onboarding email (Oct 18) gives a sample prompt that verifies attendee titles 'using LinkedIn and verified website confirmation'.",
+  "source": "https://www.unifygtm.com"
+ },
+ {
+  "date": "2026-10-19",
+  "competitor": "rox",
+  "type": "changelog",
+  "summary": "Release notes list an Oct 21 entry: Value App (sourced pipeline, estimated seller time saved), with Agents split into Automations and Outbound. Oct 14: workflow suggestions learned from repeated chat requests.",
+  "source": "https://docs.rox.com/development/release-notes/release-notes"
+ },
+ {
+  "date": "2026-10-19",
+  "competitor": "outreach",
+  "type": "changelog",
+  "summary": "October release (rolling out Oct 8 to 27): Org Context that grounds every agent, Omni in Slack channels, Revenue Agent reporting (Amplify package).",
+  "source": "https://support.outreach.io/support/solutions/articles/159000436109-outreach-product-release-notes-october-2026"
+ },
+ {
+  "date": "2026-10-19",
+  "competitor": "usergems",
+  "type": "site",
+  "summary": "Homepage case-study block now leads with MCP use: 'How Planful runs ABM from Claude with the UserGems MCP'. Pricing page unchanged.",
+  "source": "https://www.usergems.com/"
+ },
+ {
+  "date": "2026-10-19",
+  "competitor": "zoominfo",
+  "type": "jobs",
+  "summary": "Open roles 105 to 104 (Greenhouse). New: Manager, GTM Customer Success; Senior GTM Enablement Manager. No new AI titles.",
+  "source": "https://www.zoominfo.com/careers"
+ },
+ {
+  "date": "2026-10-19",
+  "competitor": "us",
+  "type": "site",
+  "summary": "No change: no Sales Navigator release since Sep 22. Core $119.99/mo and Advanced $159.99/mo list prices unchanged (plans page updated Sep 27, 2026). No public MCP.",
+  "source": "https://business.linkedin.com/sales-solutions/compare-plans"
  }
 ]

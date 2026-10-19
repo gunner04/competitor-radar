@@ -1,0 +1,434 @@
+{
+ "date": "2026-10-19",
+ "competitors": {
+  "us": {
+   "name": "LinkedIn Sales Navigator",
+   "category": "Sales intelligence (our product)",
+   "pricing": "seat",
+   "usage": 1,
+   "selfserve": 8,
+   "maturity": "Assistive",
+   "mcp": "unverified",
+   "launch_count": 1,
+   "moats": [
+    "none",
+    "none",
+    "none"
+   ]
+  },
+  "apollo": {
+   "name": "Apollo.io",
+   "category": "Data + engagement",
+   "pricing": "seat",
+   "usage": 5,
+   "selfserve": 10,
+   "maturity": "Agentic",
+   "mcp": "yes",
+   "launch_count": 4,
+   "moats": [
+    "high",
+    "none",
+    "med"
+   ]
+  },
+  "zoominfo": {
+   "name": "ZoomInfo",
+   "category": "Data incumbent",
+   "pricing": "quote",
+   "usage": 6,
+   "selfserve": 1,
+   "maturity": "Agentic",
+   "mcp": "yes",
+   "launch_count": 5,
+   "moats": [
+    "high",
+    "low",
+    "high"
+   ]
+  },
+  "cognism": {
+   "name": "Cognism",
+   "category": "Data incumbent",
+   "pricing": "quote",
+   "usage": 5,
+   "selfserve": 1,
+   "maturity": "AI features",
+   "mcp": "yes",
+   "launch_count": 1,
+   "moats": [
+    "high",
+    "none",
+    "med"
+   ]
+  },
+  "clay": {
+   "name": "Clay",
+   "category": "GTM data orchestration",
+   "pricing": "credits",
+   "usage": 9,
+   "selfserve": 8,
+   "maturity": "Agentic",
+   "mcp": "yes",
+   "launch_count": 1,
+   "moats": [
+    "high",
+    "low",
+    "med"
+   ]
+  },
+  "rox": {
+   "name": "Rox",
+   "category": "Agent-native revenue platform",
+   "pricing": "per-result",
+   "usage": 9,
+   "selfserve": 6,
+   "maturity": "Agent-native",
+   "mcp": "unknown",
+   "launch_count": 2,
+   "moats": [
+    "low",
+    "none",
+    "med"
+   ]
+  },
+  "actively": {
+   "name": "Actively",
+   "category": "Agent-native revenue platform",
+   "pricing": "quote",
+   "usage": 5,
+   "selfserve": 0,
+   "maturity": "Agent-native",
+   "mcp": "yes",
+   "launch_count": 1,
+   "moats": [
+    "low",
+    "none",
+    "med"
+   ]
+  },
+  "monaco": {
+   "name": "Monaco",
+   "category": "AI-native CRM",
+   "pricing": "credits",
+   "usage": 10,
+   "selfserve": 2,
+   "maturity": "Agent-native",
+   "mcp": "unknown",
+   "launch_count": 1,
+   "moats": [
+    "med",
+    "none",
+    "med"
+   ]
+  },
+  "salesforce": {
+   "name": "Salesforce",
+   "category": "CRM with agents",
+   "pricing": "credits",
+   "usage": 7,
+   "selfserve": 2,
+   "maturity": "Agentic",
+   "mcp": "yes (Claudeforce beta)",
+   "launch_count": 2,
+   "moats": [
+    "high",
+    "low",
+    "med"
+   ]
+  },
+  "hubspot": {
+   "name": "HubSpot",
+   "category": "CRM with agents",
+   "pricing": "per-result",
+   "usage": 7,
+   "selfserve": 8,
+   "maturity": "Agentic",
+   "mcp": "unknown",
+   "launch_count": 2,
+   "moats": [
+    "high",
+    "none",
+    "med"
+   ]
+  },
+  "commonroom": {
+   "name": "Common Room (Zoom)",
+   "category": "Signals / buyer intelligence",
+   "pricing": "credits",
+   "usage": 6,
+   "selfserve": 3,
+   "maturity": "Agentic",
+   "mcp": "yes",
+   "launch_count": 1,
+   "moats": [
+    "high",
+    "low",
+    "high"
+   ]
+  },
+  "usergems": {
+   "name": "UserGems",
+   "category": "Signals / buyer intelligence",
+   "pricing": "credits",
+   "usage": 6,
+   "selfserve": 2,
+   "maturity": "Agentic",
+   "mcp": "yes",
+   "launch_count": 1,
+   "moats": [
+    "med",
+    "med",
+    "high"
+   ]
+  },
+  "unify": {
+   "name": "Unify",
+   "category": "Signals / outbound agents",
+   "pricing": "seat",
+   "usage": 5,
+   "selfserve": 9,
+   "maturity": "Agentic",
+   "mcp": "unknown",
+   "launch_count": 1,
+   "moats": [
+    "med",
+    "high",
+    "high"
+   ]
+  },
+  "outreach": {
+   "name": "Outreach",
+   "category": "Engagement suite",
+   "pricing": "quote",
+   "usage": 5,
+   "selfserve": 1,
+   "maturity": "Agentic",
+   "mcp": "yes",
+   "launch_count": 2,
+   "moats": [
+    "low",
+    "med",
+    "low"
+   ]
+  },
+  "salesloft": {
+   "name": "Salesloft (+Clari)",
+   "category": "Engagement suite",
+   "pricing": "quote",
+   "usage": 2,
+   "selfserve": 1,
+   "maturity": "AI features",
+   "mcp": "unknown",
+   "launch_count": 1,
+   "moats": [
+    "none",
+    "none",
+    "med"
+   ]
+  },
+  "gong": {
+   "name": "Gong",
+   "category": "Revenue intelligence",
+   "pricing": "quote",
+   "usage": 1,
+   "selfserve": 1,
+   "maturity": "Agentic",
+   "mcp": "yes",
+   "launch_count": 2,
+   "moats": [
+    "none",
+    "none",
+    "low"
+   ]
+  },
+  "lusha": {
+   "name": "Lusha",
+   "category": "Contact data",
+   "pricing": "credits",
+   "usage": 8,
+   "selfserve": 10,
+   "maturity": "AI features",
+   "mcp": "yes",
+   "launch_count": 2,
+   "moats": [
+    "high",
+    "none",
+    "med"
+   ]
+  },
+  "seamless": {
+   "name": "Seamless.AI",
+   "category": "Contact data",
+   "pricing": "credits",
+   "usage": 8,
+   "selfserve": 7,
+   "maturity": "AI features",
+   "mcp": "yes",
+   "launch_count": 2,
+   "moats": [
+    "high",
+    "none",
+    "med"
+   ]
+  }
+ },
+ "pulse": {
+  "date": "2026-10-19",
+  "baseline": "2026-10-18",
+  "material_change": true,
+  "pages_diffed": 30,
+  "pricing_changes": 0,
+  "findings": [
+   {
+    "competitor": "lusha",
+    "type": "ai",
+    "summary": "Deep Intelligence shipped as one product on Oct 19: daily ranked accounts and contacts with fit score and dated signal, Buying Group (beta), Website Visits (beta, company-level, Pro+), all also via API and MCP. Daily list included in plans; Buying Group reveals use credits.",
+    "source": "https://www.lusha.com/blog/deep-intelligence-who-to-call-today/"
+   },
+   {
+    "competitor": "zoominfo",
+    "type": "ai",
+    "summary": "Named a flagship data partner for Salesforce's Hunter outbound agent (Oct 15): data 'built into Hunter' with no separate login. Also an n8n GTM.AI node (Oct 12) and the Workbounce knowledge layer (Oct 14).",
+    "source": "https://ir.zoominfo.com/news-releases/news-release-details/zoominfo-named-flagship-data-partner-hunter-salesforces-new/"
+   },
+   {
+    "competitor": "hubspot",
+    "type": "pricing",
+    "summary": "AI spend controls (Oct 15): default credit cap up to 50% above monthly credits, self-serve seat-to-credit swaps mid-contract, credit packs or Pay-as-You-Go. Prospecting Agent stays at $1 per recommended lead.",
+    "source": "https://www.hubspot.com/company-news/flexible-pricing"
+   },
+   {
+    "competitor": "gong",
+    "type": "ai",
+    "summary": "Gong Enrich (Sep 30, Celebrate '26): native enrichment with launch partners Apollo, LeadIQ, Lusha, ZoomInfo and others; LinkedIn not listed. Also Agent Builder and Deep Mode.",
+    "source": "https://www.gong.io/press/new-revenue-ai-innovation-celebrate-26"
+   },
+   {
+    "competitor": "apollo",
+    "type": "x",
+    "summary": "Promoted the Messaging OS beta on X (Oct 19): 'uses buying signals to help decide who to reach, when, and on which channel'. Still a waitlist.",
+    "source": "https://x.com/useapolloio/status/2112186733169405990"
+   },
+   {
+    "competitor": "unify",
+    "type": "mail",
+    "summary": "Onboarding email (Oct 18) gives a sample prompt that verifies attendee titles 'using LinkedIn and verified website confirmation'.",
+    "source": "https://www.unifygtm.com"
+   },
+   {
+    "competitor": "rox",
+    "type": "changelog",
+    "summary": "Release notes list an Oct 21 entry: Value App (sourced pipeline, estimated seller time saved), with Agents split into Automations and Outbound. Oct 14: workflow suggestions learned from repeated chat requests.",
+    "source": "https://docs.rox.com/development/release-notes/release-notes"
+   },
+   {
+    "competitor": "outreach",
+    "type": "changelog",
+    "summary": "October release (rolling out Oct 8 to 27): Org Context that grounds every agent, Omni in Slack channels, Revenue Agent reporting (Amplify package).",
+    "source": "https://support.outreach.io/support/solutions/articles/159000436109-outreach-product-release-notes-october-2026"
+   },
+   {
+    "competitor": "usergems",
+    "type": "site",
+    "summary": "Homepage case-study block now leads with MCP use: 'How Planful runs ABM from Claude with the UserGems MCP'. Pricing page unchanged.",
+    "source": "https://www.usergems.com/"
+   },
+   {
+    "competitor": "zoominfo",
+    "type": "jobs",
+    "summary": "Open roles 105 to 104 (Greenhouse). New: Manager, GTM Customer Success; Senior GTM Enablement Manager. No new AI titles.",
+    "source": "https://www.zoominfo.com/careers"
+   },
+   {
+    "competitor": "us",
+    "type": "site",
+    "summary": "No change: no Sales Navigator release since Sep 22. Core $119.99/mo and Advanced $159.99/mo list prices unchanged (plans page updated Sep 27, 2026). No public MCP.",
+    "source": "https://business.linkedin.com/sales-solutions/compare-plans"
+   }
+  ],
+  "against_us": {
+   "lusha": [
+    "Low-Med",
+    "Low-Med",
+    "Medium"
+   ],
+   "zoominfo": [
+    "Med-High",
+    "Low",
+    "Low-Med"
+   ],
+   "hubspot": [
+    "Low",
+    "None",
+    "Low"
+   ],
+   "gong": [
+    "Medium",
+    "Low",
+    "Low"
+   ],
+   "apollo": [
+    "Low",
+    "Low",
+    "Low-Med"
+   ],
+   "unify": [
+    "Low-Med",
+    "None",
+    "None"
+   ],
+   "rox": [
+    "Low",
+    "None",
+    "Low"
+   ],
+   "outreach": [
+    "None",
+    "None",
+    "None"
+   ]
+  },
+  "jobs": {
+   "zoominfo": [
+    105,
+    104
+   ],
+   "gong": [
+    97,
+    99
+   ],
+   "salesloft": [
+    29,
+    30
+   ],
+   "clay": [
+    58,
+    59
+   ],
+   "cognism": [
+    18,
+    18
+   ],
+   "actively": [
+    21,
+    21
+   ],
+   "monaco": [
+    18,
+    18
+   ],
+   "rox": [
+    36,
+    36
+   ],
+   "unify": [
+    10,
+    10
+   ],
+   "usergems": [
+    4,
+    4
+   ]
+  }
+ }
+}
