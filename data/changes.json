@@ -1,0 +1,128 @@
+[
+ {
+  "date": "2026-10-18",
+  "competitor": "us",
+  "type": "baseline",
+  "summary": "First seen: LinkedIn Sales Navigator (Sales intelligence (our product); pricing seat; AI Assistive; MCP unverified)",
+  "source": "https://scommunity.linkedin.com/product-release-announcements-107/your-sales-navigator-september-2026-release-is-here-it-works-where-you-work-9163"
+ },
+ {
+  "date": "2026-10-18",
+  "competitor": "apollo",
+  "type": "baseline",
+  "summary": "First seen: Apollo.io (Data + engagement; pricing seat; AI Agentic; MCP yes)",
+  "source": "https://www.apollo.io/newsroom/announcements/apollo-delivers-gtm-outbound-execution-to-claude"
+ },
+ {
+  "date": "2026-10-18",
+  "competitor": "zoominfo",
+  "type": "baseline",
+  "summary": "First seen: ZoomInfo (Data incumbent; pricing quote; AI Agentic; MCP yes)",
+  "source": "https://ir.zoominfo.com/news-releases/news-release-details/zoominfo-launches-gtmai-headless-gtm-context-layer-ground-every/"
+ },
+ {
+  "date": "2026-10-18",
+  "competitor": "cognism",
+  "type": "baseline",
+  "summary": "First seen: Cognism (Data incumbent; pricing quote; AI AI features; MCP yes)",
+  "source": "https://www.cognism.com/changelog"
+ },
+ {
+  "date": "2026-10-18",
+  "competitor": "clay",
+  "type": "baseline",
+  "summary": "First seen: Clay (GTM data orchestration; pricing credits; AI Agentic; MCP yes)",
+  "source": "https://www.clay.com/blog/sculpt-2026-recap"
+ },
+ {
+  "date": "2026-10-18",
+  "competitor": "rox",
+  "type": "baseline",
+  "summary": "First seen: Rox (Agent-native revenue platform; pricing per-result; AI Agent-native; MCP unknown)",
+  "source": "https://www.rox.com/articles/revenue-on-autopilot"
+ },
+ {
+  "date": "2026-10-18",
+  "competitor": "actively",
+  "type": "baseline",
+  "summary": "First seen: Actively (Agent-native revenue platform; pricing quote; AI Agent-native; MCP yes)",
+  "source": "https://www.businesswire.com/news/home/20260428810008/en/Actively-Raises-%2445M-Series-B-to-Scale-Intelligence-Led-Revenue-Platform"
+ },
+ {
+  "date": "2026-10-18",
+  "competitor": "monaco",
+  "type": "baseline",
+  "summary": "First seen: Monaco (AI-native CRM; pricing credits; AI Agent-native; MCP unknown)",
+  "source": "https://www.globenewswire.com/news-release/2026/02/11/3236493/0/en/monaco-launches-ai-native-sales-platform-to-accelerate-revenue-growth-for-startups.html"
+ },
+ {
+  "date": "2026-10-18",
+  "competitor": "salesforce",
+  "type": "baseline",
+  "summary": "First seen: Salesforce (CRM with agents; pricing credits; AI Agentic; MCP yes (Claudeforce beta))",
+  "source": "https://www.salesforce.com/news/stories/agentforce-sales-announcement/"
+ },
+ {
+  "date": "2026-10-18",
+  "competitor": "hubspot",
+  "type": "baseline",
+  "summary": "First seen: HubSpot (CRM with agents; pricing per-result; AI Agentic; MCP unknown)",
+  "source": "https://www.hubspot.com/company-news/spring-2026-spotlight"
+ },
+ {
+  "date": "2026-10-18",
+  "competitor": "commonroom",
+  "type": "baseline",
+  "summary": "First seen: Common Room (Zoom) (Signals / buyer intelligence; pricing credits; AI Agentic; MCP yes)",
+  "source": "https://www.zoom.com/en/blog/zoom-to-acquire-common-room/"
+ },
+ {
+  "date": "2026-10-18",
+  "competitor": "usergems",
+  "type": "baseline",
+  "summary": "First seen: UserGems (Signals / buyer intelligence; pricing credits; AI Agentic; MCP yes)",
+  "source": "https://www.usergems.com/news/usergems-launches-mcp-ai"
+ },
+ {
+  "date": "2026-10-18",
+  "competitor": "unify",
+  "type": "baseline",
+  "summary": "First seen: Unify (Signals / outbound agents; pricing seat; AI Agentic; MCP unknown)",
+  "source": "https://www.cleanlist.ai/blog/2026-08-02-b2b-data-tool-acquisitions-and-shutdowns-2026"
+ },
+ {
+  "date": "2026-10-18",
+  "competitor": "outreach",
+  "type": "baseline",
+  "summary": "First seen: Outreach (Engagement suite; pricing quote; AI Agentic; MCP yes)",
+  "source": "https://www.outreach.ai/company/newsroom/outreach-becomes-the-first-agentic-ai-platform-for-revenue-teams-with-full-mcp-suite"
+ },
+ {
+  "date": "2026-10-18",
+  "competitor": "salesloft",
+  "type": "baseline",
+  "summary": "First seen: Salesloft (+Clari) (Engagement suite; pricing quote; AI AI features; MCP unknown)",
+  "source": "https://www.salesloft.com/company/newsroom/clari-salesloft-merger"
+ },
+ {
+  "date": "2026-10-18",
+  "competitor": "gong",
+  "type": "baseline",
+  "summary": "First seen: Gong (Revenue intelligence; pricing quote; AI Agentic; MCP yes)",
+  "source": "https://www.gong.io/press/gong-launches-mission-big-dipper-revenue-harness"
+ },
+ {
+  "date": "2026-10-18",
+  "competitor": "lusha",
+  "type": "baseline",
+  "summary": "First seen: Lusha (Contact data; pricing credits; AI AI features; MCP yes)",
+  "source": "https://www.lusha.com/blog/introducing-lusha-in-claude/"
+ },
+ {
+  "date": "2026-10-18",
+  "competitor": "seamless",
+  "type": "baseline",
+  "summary": "First seen: Seamless.AI (Contact data; pricing credits; AI AI features; MCP yes)",
+  "source": "https://www.prweb.com/releases/seamlessais-new-mcp-server-takes-you-from-prompt-to-closed-won-deal-302839077.html"
+ }
+]
