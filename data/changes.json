@@ -201,5 +201,54 @@
   "type": "site",
   "summary": "No change: no Sales Navigator release since Sep 22. Core $119.99/mo and Advanced $159.99/mo list prices unchanged (plans page updated Sep 27, 2026). No public MCP.",
   "source": "https://business.linkedin.com/sales-solutions/compare-plans"
+ },
+ {
+  "date": "2026-10-21",
+  "competitor": "lusha",
+  "type": "ai",
+  "summary": "Published its MCP tools reference (Oct 16, first seen Oct 21): 50 tools, MCP on every plan including free; 1 credit per email, 5 per phone, 1 per search call of 1 to 25 results; CRM export up to 150 records per run to Salesforce and 100 to HubSpot. Enrichment accepts a LinkedIn URL. Cannot send or sequence.",
+  "source": "https://www.lusha.com/blog/usha-mcp-tools/"
+ },
+ {
+  "date": "2026-10-21",
+  "competitor": "salesforce",
+  "type": "pricing",
+  "summary": "Agentforce pricing page adds Agentforce Coworker as a standalone SKU at $50 per user per month, all Coworker searches included, 30 MB indexing per user per month (not on the page Oct 19). Help docs cap seat-based use at 30 LLM calls per minute per user.",
+  "source": "https://www.salesforce.com/agentforce/pricing/"
+ },
+ {
+  "date": "2026-10-21",
+  "competitor": "rox",
+  "type": "ai",
+  "summary": "Research post (Oct 12, first seen Oct 21) on its Autonomous Outbound Worker: an in-house reward model that scores cold emails, which Rox says agrees with SDR edits 80% of the time vs under 50% for GPT and Claude. Test set: 510 replies on 33,933 sends (1.5%).",
+  "source": "https://www.rox.com/articles/the-outbound-reward-model"
+ },
+ {
+  "date": "2026-10-21",
+  "competitor": "gong",
+  "type": "jobs",
+  "summary": "Open roles 99 to 91 (Greenhouse). Seven titles removed, including DevOps, SRE, frontend and support; none added.",
+  "source": "https://job-boards.greenhouse.io/gongio"
+ },
+ {
+  "date": "2026-10-21",
+  "competitor": "seamless",
+  "type": "x",
+  "summary": "Posted on X (Oct 21) that it has '40+ open roles across sales, legal, recruiting and marketing', all remote in the U.S.",
+  "source": "https://x.com/SeamlessAI/status/2112937052882743548"
+ },
+ {
+  "date": "2026-10-21",
+  "competitor": "unify",
+  "type": "jobs",
+  "summary": "Open roles 10 to 11 (Ashby). New: Applied AI Engineer.",
+  "source": "https://jobs.ashbyhq.com/unify"
+ },
+ {
+  "date": "2026-10-21",
+  "competitor": "us",
+  "type": "site",
+  "summary": "No change: no Sales Navigator release since Sep 22. Core $119.99/mo and Advanced $159.99/mo list prices unchanged. No public MCP.",
+  "source": "https://business.linkedin.com/sell/sales-navigator/compare-plans"
  }
 ]

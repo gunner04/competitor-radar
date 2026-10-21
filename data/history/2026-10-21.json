@@ -1,0 +1,275 @@
+{
+ "date": "2026-10-21",
+ "competitors": {
+  "us": {
+   "name": "LinkedIn Sales Navigator",
+   "category": "Sales intelligence (our product)",
+   "pricing": "seat",
+   "usage": 1,
+   "selfserve": 8,
+   "maturity": "Assistive",
+   "mcp": "unverified",
+   "launch_count": 1,
+   "moats": [
+    "none",
+    "none",
+    "none"
+   ]
+  },
+  "apollo": {
+   "name": "Apollo.io",
+   "category": "Data + engagement",
+   "pricing": "seat",
+   "usage": 5,
+   "selfserve": 10,
+   "maturity": "Agentic",
+   "mcp": "yes",
+   "launch_count": 4,
+   "moats": [
+    "high",
+    "none",
+    "med"
+   ]
+  },
+  "zoominfo": {
+   "name": "ZoomInfo",
+   "category": "Data incumbent",
+   "pricing": "quote",
+   "usage": 6,
+   "selfserve": 1,
+   "maturity": "Agentic",
+   "mcp": "yes",
+   "launch_count": 5,
+   "moats": [
+    "high",
+    "low",
+    "high"
+   ]
+  },
+  "cognism": {
+   "name": "Cognism",
+   "category": "Data incumbent",
+   "pricing": "quote",
+   "usage": 5,
+   "selfserve": 1,
+   "maturity": "AI features",
+   "mcp": "yes",
+   "launch_count": 1,
+   "moats": [
+    "high",
+    "none",
+    "med"
+   ]
+  },
+  "clay": {
+   "name": "Clay",
+   "category": "GTM data orchestration",
+   "pricing": "credits",
+   "usage": 9,
+   "selfserve": 8,
+   "maturity": "Agentic",
+   "mcp": "yes",
+   "launch_count": 1,
+   "moats": [
+    "high",
+    "low",
+    "med"
+   ]
+  },
+  "rox": {
+   "name": "Rox",
+   "category": "Agent-native revenue platform",
+   "pricing": "per-result",
+   "usage": 9,
+   "selfserve": 6,
+   "maturity": "Agent-native",
+   "mcp": "unknown",
+   "launch_count": 2,
+   "moats": [
+    "low",
+    "none",
+    "med"
+   ]
+  },
+  "actively": {
+   "name": "Actively",
+   "category": "Agent-native revenue platform",
+   "pricing": "quote",
+   "usage": 5,
+   "selfserve": 0,
+   "maturity": "Agent-native",
+   "mcp": "yes",
+   "launch_count": 1,
+   "moats": [
+    "low",
+    "none",
+    "med"
+   ]
+  },
+  "monaco": {
+   "name": "Monaco",
+   "category": "AI-native CRM",
+   "pricing": "credits",
+   "usage": 10,
+   "selfserve": 2,
+   "maturity": "Agent-native",
+   "mcp": "unknown",
+   "launch_count": 1,
+   "moats": [
+    "med",
+    "none",
+    "med"
+   ]
+  },
+  "salesforce": {
+   "name": "Salesforce",
+   "category": "CRM with agents",
+   "pricing": "credits",
+   "usage": 7,
+   "selfserve": 2,
+   "maturity": "Agentic",
+   "mcp": "yes (Claudeforce beta)",
+   "launch_count": 3,
+   "moats": [
+    "high",
+    "low",
+    "med"
+   ]
+  },
+  "hubspot": {
+   "name": "HubSpot",
+   "category": "CRM with agents",
+   "pricing": "per-result",
+   "usage": 7,
+   "selfserve": 8,
+   "maturity": "Agentic",
+   "mcp": "unknown",
+   "launch_count": 2,
+   "moats": [
+    "high",
+    "none",
+    "med"
+   ]
+  },
+  "commonroom": {
+   "name": "Common Room (Zoom)",
+   "category": "Signals / buyer intelligence",
+   "pricing": "credits",
+   "usage": 6,
+   "selfserve": 3,
+   "maturity": "Agentic",
+   "mcp": "yes",
+   "launch_count": 1,
+   "moats": [
+    "high",
+    "low",
+    "high"
+   ]
+  },
+  "usergems": {
+   "name": "UserGems",
+   "category": "Signals / buyer intelligence",
+   "pricing": "credits",
+   "usage": 6,
+   "selfserve": 2,
+   "maturity": "Agentic",
+   "mcp": "yes",
+   "launch_count": 1,
+   "moats": [
+    "med",
+    "med",
+    "high"
+   ]
+  },
+  "unify": {
+   "name": "Unify",
+   "category": "Signals / outbound agents",
+   "pricing": "seat",
+   "usage": 5,
+   "selfserve": 9,
+   "maturity": "Agentic",
+   "mcp": "unknown",
+   "launch_count": 1,
+   "moats": [
+    "med",
+    "high",
+    "high"
+   ]
+  },
+  "outreach": {
+   "name": "Outreach",
+   "category": "Engagement suite",
+   "pricing": "quote",
+   "usage": 5,
+   "selfserve": 1,
+   "maturity": "Agentic",
+   "mcp": "yes",
+   "launch_count": 2,
+   "moats": [
+    "low",
+    "med",
+    "low"
+   ]
+  },
+  "salesloft": {
+   "name": "Salesloft (+Clari)",
+   "category": "Engagement suite",
+   "pricing": "quote",
+   "usage": 2,
+   "selfserve": 1,
+   "maturity": "AI features",
+   "mcp": "unknown",
+   "launch_count": 1,
+   "moats": [
+    "none",
+    "none",
+    "med"
+   ]
+  },
+  "gong": {
+   "name": "Gong",
+   "category": "Revenue intelligence",
+   "pricing": "quote",
+   "usage": 1,
+   "selfserve": 1,
+   "maturity": "Agentic",
+   "mcp": "yes",
+   "launch_count": 2,
+   "moats": [
+    "none",
+    "none",
+    "low"
+   ]
+  },
+  "lusha": {
+   "name": "Lusha",
+   "category": "Contact data",
+   "pricing": "credits",
+   "usage": 8,
+   "selfserve": 10,
+   "maturity": "AI features",
+   "mcp": "yes",
+   "launch_count": 3,
+   "moats": [
+    "high",
+    "none",
+    "med"
+   ]
+  },
+  "seamless": {
+   "name": "Seamless.AI",
+   "category": "Contact data",
+   "pricing": "credits",
+   "usage": 8,
+   "selfserve": 7,
+   "maturity": "AI features",
+   "mcp": "yes",
+   "launch_count": 2,
+   "moats": [
+    "high",
+    "none",
+    "med"
+   ]
+  }
+ }
+}
