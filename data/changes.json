@@ -250,5 +250,152 @@
   "type": "site",
   "summary": "No change: no Sales Navigator release since Sep 22. Core $119.99/mo and Advanced $159.99/mo list prices unchanged. No public MCP.",
   "source": "https://business.linkedin.com/sell/sales-navigator/compare-plans"
+ },
+ {
+  "date": "2026-10-23",
+  "competitor": "zoominfo",
+  "type": "ai",
+  "summary": "Native integration with Exa (Oct 23) through GTM.AI: ZoomInfo company and contact data inside Exa agent workflows via Exa Connect, plus GTM.AI API and MCP access for builders. For mutual customers; no per-call price published.",
+  "source": "https://www.zoominfo.com/newsroom/press-releases/zoominfo-exa-native-integration"
+ },
+ {
+  "date": "2026-10-23",
+  "competitor": "outreach",
+  "type": "site",
+  "summary": "Homepage headline changed to 'Stop renting software. Start hiring AI agents.' with 90% / 45% / 50% customer-story stats; the agentic carousel naming Outreach MCP, Omni and Agent Studio came off the homepage.",
+  "source": "https://www.outreach.ai"
+ },
+ {
+  "date": "2026-10-23",
+  "competitor": "clay",
+  "type": "launch",
+  "summary": "Product roundup dated Oct 19 (first seen Oct 23): Metro Area Search across 151 countries, Signals to Workflows, Write to Audiences upsert, SCIM provisioning (beta).",
+  "source": "https://www.clay.com/changelog"
+ },
+ {
+  "date": "2026-10-23",
+  "competitor": "lusha",
+  "type": "site",
+  "summary": "Homepage copy: visitor product relabeled 'See companies visiting your site' (was 'See who's visiting your site'); new section 'The same verified answer, whether it's you asking or your AI'; '26 buying signals refreshed weekly' became '26 buying signal types'.",
+  "source": "https://www.lusha.com/"
+ },
+ {
+  "date": "2026-10-23",
+  "competitor": "rox",
+  "type": "x",
+  "summary": "Posted an essay on 'RSI', revenue agents that improve with use (Oct 22); new homepage testimonial from a Director of GTM Engineering.",
+  "source": "https://x.com/rox_ai/status/2113392255302299712"
+ },
+ {
+  "date": "2026-10-23",
+  "competitor": "zoominfo",
+  "type": "jobs",
+  "summary": "Open roles 105 to 100 (Greenhouse); four titles closed, none added.",
+  "source": "https://job-boards.greenhouse.io/zoominfo"
+ },
+ {
+  "date": "2026-10-23",
+  "competitor": "us",
+  "type": "site",
+  "summary": "No change: no Sales Navigator release since Sep 22. Core $119.99/mo and Advanced $159.99/mo list prices unchanged. No public MCP.",
+  "source": "https://business.linkedin.com/sell/sales-navigator/compare-plans"
+ },
+ {
+  "date": "2026-10-26",
+  "competitor": "lusha",
+  "type": "launch",
+  "summary": "New \"Buying group mapping\" page (published Oct 25): signer, champion and daily user per account, scored, in the app, the API (25 companies per call) and Claude/ChatGPT, at one credit per contact.",
+  "source": "https://www.lusha.com/buying-group-mapping/"
+ },
+ {
+  "date": "2026-10-26",
+  "competitor": "lusha",
+  "type": "site",
+  "summary": "Homepage states signal refresh rates (most weekly, IT spend and website traffic monthly) and drops a \"90%\" phone-accuracy testimonial.",
+  "source": "https://www.lusha.com/"
+ },
+ {
+  "date": "2026-10-26",
+  "competitor": "rox",
+  "type": "changelog",
+  "summary": "Release notes: Rox Dialer 2.0 with power dialing, call logging, recordings, transcripts and AI summaries.",
+  "source": "https://docs.rox.com/development/release-notes/release-notes"
+ },
+ {
+  "date": "2026-10-26",
+  "competitor": "salesforce",
+  "type": "x",
+  "summary": "X post frames agent value as \"Agentic Work Units\", not tokens. Pricing unchanged.",
+  "source": "https://x.com/salesforce/status/2113681783954829371"
+ },
+ {
+  "date": "2026-10-26",
+  "competitor": "us",
+  "type": "site",
+  "summary": "No change: no Sales Navigator release since Sep 22. Core $119.99/mo and Advanced $159.99/mo list prices unchanged. No public MCP.",
+  "source": "https://business.linkedin.com/sell/sales-navigator/compare-plans"
+ },
+ {
+  "date": "2026-11-02",
+  "competitor": "apollo",
+  "type": "ai",
+  "summary": "New \"Apollo for Builders\" page: Apollo's own agent callable from Claude, ChatGPT, Cursor or any MCP/API client \"on every plan\"; handing a job is free, actions cost credits, the agent itself needs a paid plan.",
+  "source": "https://www.apollo.io/builders"
+ },
+ {
+  "date": "2026-11-02",
+  "competitor": "zoominfo",
+  "type": "ai",
+  "summary": "ZoomInfo MCP (14 tools) and API launched inside Snowflake CoWork and Cortex Agents (Oct 30); bulk enrichment up to 10,000 records per request. Requires a ZoomInfo subscription.",
+  "source": "https://www.zoominfo.com/newsroom/press-releases/zoominfo-mcp-api-launch-snowflake"
+ },
+ {
+  "date": "2026-11-02",
+  "competitor": "zoominfo",
+  "type": "site",
+  "summary": "Homepage swaps \"Trusted by 35,000+ fast-growing companies\" for \"The GTM data layer trusted by over half the Fortune 500\".",
+  "source": "https://www.zoominfo.com/"
+ },
+ {
+  "date": "2026-11-02",
+  "competitor": "rox",
+  "type": "pricing",
+  "summary": "Pricing cards drop the monthly Agent Action allotments (10,000 and 15,000), add \"starts at\", and a plan comparison table appears; MCP support shows dashes on Individual and Teams.",
+  "source": "https://www.rox.com/pricing"
+ },
+ {
+  "date": "2026-11-02",
+  "competitor": "lusha",
+  "type": "site",
+  "summary": "Homepage rewritten around ICP scoring and CRM history; buying-signal types go from 26 to 30.",
+  "source": "https://www.lusha.com/"
+ },
+ {
+  "date": "2026-11-02",
+  "competitor": "unify",
+  "type": "launch",
+  "summary": "Unify Dialer launched (Oct 28): power dialing with research and \"a reason to call\"; Power Dialer on the Business plan.",
+  "source": "https://www.unifygtm.com/dialer"
+ },
+ {
+  "date": "2026-11-02",
+  "competitor": "salesforce",
+  "type": "x",
+  "summary": "Teases \"Agentforce Coworker\" with live demos on Nov 4; Hunter page retitled \"Your New Sales Agent\".",
+  "source": "https://x.com/salesforce/status/2115836199990350269"
+ },
+ {
+  "date": "2026-11-02",
+  "competitor": "seamless",
+  "type": "x",
+  "summary": "Promotes a \"new Buyer Intent feature\" on X (Oct 27); not yet verified on its site.",
+  "source": "https://x.com/SeamlessAI/status/2115167923585048979"
+ },
+ {
+  "date": "2026-11-02",
+  "competitor": "us",
+  "type": "site",
+  "summary": "No change: Sales Navigator plans, product-update and help pages unchanged since Oct 26. No public MCP.",
+  "source": "https://business.linkedin.com/sell/sales-navigator/compare-plans"
  }
 ]
