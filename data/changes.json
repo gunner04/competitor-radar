@@ -397,5 +397,61 @@
   "type": "site",
   "summary": "No change: Sales Navigator plans, product-update and help pages unchanged since Oct 26. No public MCP.",
   "source": "https://business.linkedin.com/sell/sales-navigator/compare-plans"
+ },
+ {
+  "date": "2026-11-04",
+  "competitor": "zoominfo",
+  "type": "ai",
+  "summary": "ZoomInfo MCP connector launched in Notion AI through GTM.AI (Nov 3), its fifth agent surface since Oct 15. Works on \"any ZoomInfo plan\" if the Notion workspace is Business or Enterprise; \"some advanced tools require additional entitlements or credits.\"",
+  "source": "https://www.zoominfo.com/newsroom/press-releases/zoominfo-launches-mcp-integration-notion"
+ },
+ {
+  "date": "2026-11-04",
+  "competitor": "salesforce",
+  "type": "launch",
+  "summary": "Agentforce Coworker expansion (Nov 4): \"More than 185,000 users\", usage up 21x in three months; new Microsoft Teams surface, Google Workspace and Microsoft 365 connections, iOS/Mac/Windows apps; \"A new $50 per-user, per-month option\"; scheduled tasks from December.",
+  "source": "https://www.salesforce.com/news/stories/agentforce-coworker-surpasses-185k-users/"
+ },
+ {
+  "date": "2026-11-04",
+  "competitor": "clay",
+  "type": "changelog",
+  "summary": "Changelog (Nov 2): Workflow Credit Limits (\"Cap credit spend on individual workflows\"), MCP Client Allowlisting by domain, Audiences hard delete via API; Auto-mode for Claygent (Oct 27).",
+  "source": "https://www.clay.com/changelog"
+ },
+ {
+  "date": "2026-11-04",
+  "competitor": "clay",
+  "type": "x",
+  "summary": "Clay's own test on X (Nov 3): its native Account Agent vs a general-purpose agent on Salesforce + Gong over MCP, \"6.4x fewer input tokens. Answered 2.6x faster.\" Vendor-run test.",
+  "source": "https://x.com/clay/status/2117686387331772591"
+ },
+ {
+  "date": "2026-11-04",
+  "competitor": "seamless",
+  "type": "site",
+  "summary": "Buyer Intent verified on site (listed in the menu since at least Oct 26): third-party co-op intent, \"nearly 4 million unique domains through 16.4 billion interactions each month across 5,000+ sites\"; custom pricing. CRO no longer listed on the leadership page.",
+  "source": "https://seamless.ai/products/buyer-intent-data"
+ },
+ {
+  "date": "2026-11-04",
+  "competitor": "lusha",
+  "type": "site",
+  "summary": "Homepage hero now reads \"Give your team and AI agents the GTM intelligence...\" and \"Rank accounts against your ICP\".",
+  "source": "https://www.lusha.com/"
+ },
+ {
+  "date": "2026-11-04",
+  "competitor": "salesforce",
+  "type": "site",
+  "summary": "Agreed to acquire Cresta (Nov 2), voice agents and conversation intelligence for Service Cloud. Service, not prospecting.",
+  "source": "https://www.salesforce.com/news/stories/salesforce-signs-definitive-agreement-to-acquire-cresta/"
+ },
+ {
+  "date": "2026-11-04",
+  "competitor": "us",
+  "type": "site",
+  "summary": "No change: Sales Navigator plans, product-update and help pages unchanged since Nov 2. No public MCP.",
+  "source": "https://business.linkedin.com/sell/sales-navigator/compare-plans"
  }
 ]

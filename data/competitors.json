@@ -88,6 +88,11 @@
     "2026-10-23",
     "Native Exa integration through GTM.AI (API/MCP)",
     "https://www.zoominfo.com/newsroom/press-releases/zoominfo-exa-native-integration"
+   ],
+   [
+    "2026-11-03",
+    "MCP connector in Notion AI through GTM.AI",
+    "https://www.zoominfo.com/newsroom/press-releases/zoominfo-launches-mcp-integration-notion"
    ]
   ]
  },
@@ -126,6 +131,11 @@
    [
     "2026-10-19",
     "Metro Area Search (151 countries), Signals to Workflows, SCIM (beta)",
+    "https://www.clay.com/changelog"
+   ],
+   [
+    "2026-11-02",
+    "Workflow Credit Limits, MCP Client Allowlisting, Claygent Auto-mode",
     "https://www.clay.com/changelog"
    ]
   ]
@@ -210,6 +220,11 @@
     "2026-10-21",
     "Agentforce Coworker standalone SKU, $50/user/month (first seen)",
     "https://www.salesforce.com/agentforce/pricing/"
+   ],
+   [
+    "2026-11-04",
+    "Agentforce Coworker in Teams, Google Workspace/M365 connections, $50/user/month option",
+    "https://www.salesforce.com/news/stories/agentforce-coworker-surpasses-185k-users/"
    ]
   ]
  },
