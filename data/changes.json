@@ -453,5 +453,47 @@
   "type": "site",
   "summary": "No change: Sales Navigator plans, product-update and help pages unchanged since Nov 2. No public MCP.",
   "source": "https://business.linkedin.com/sell/sales-navigator/compare-plans"
+ },
+ {
+  "date": "2026-11-06",
+  "competitor": "salesforce",
+  "type": "launch",
+  "summary": "Koa Decisions: next HyperClassifier decision model for Agentforce routing; millisecond single-step decisions; multimodal (image/audio); planned flows/Apex/prompt templates/API.",
+  "source": "https://www.salesforce.com/news/stories/koa-decisions-salesforce-decision-models/"
+ },
+ {
+  "date": "2026-11-06",
+  "competitor": "clay",
+  "type": "launch",
+  "summary": "Open-sourced Paid Alumni Job Changers play: champion job-change as buying signal; Marketplace skill for Claude Code/Cursor; Salesforce + Gong Engage handoff.",
+  "source": "https://www.clay.com/blog/how-we-turn-a-champions-departure-into-a-buying-signal"
+ },
+ {
+  "date": "2026-11-06",
+  "competitor": "outreach",
+  "type": "site",
+  "summary": "AI Agent Cookbook / Agent Recipes page live in nav (Personalization, win-back, displace competition, churn, expansion recipes).",
+  "source": "https://www.outreach.ai/resources/recipes"
+ },
+ {
+  "date": "2026-11-06",
+  "competitor": "salesforce",
+  "type": "site",
+  "summary": "Agentforce Memory policy update (blog Nov 3): 1.8\u00d7 stated-fact recall, 2.2\u00d7 on facts that change; GA since September.",
+  "source": "https://www.salesforce.com/blog/agentforce-memory-update/"
+ },
+ {
+  "date": "2026-11-06",
+  "competitor": "hubspot",
+  "type": "x",
+  "summary": "Teased \"one more thing coming soon\" on X (Nov 5); product not named.",
+  "source": "https://x.com/HubSpot/status/2118357850854424877"
+ },
+ {
+  "date": "2026-11-06",
+  "competitor": "us",
+  "type": "site",
+  "summary": "No change: Sales Navigator plans, product-update and help pages unchanged since Nov 4. No public MCP.",
+  "source": "https://business.linkedin.com/sell/sales-navigator/compare-plans"
  }
 ]
