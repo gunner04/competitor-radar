@@ -495,5 +495,47 @@
   "type": "site",
   "summary": "No change: Sales Navigator plans, product-update and help pages unchanged since Nov 4. No public MCP.",
   "source": "https://business.linkedin.com/sell/sales-navigator/compare-plans"
+ },
+ {
+  "date": "2026-11-09",
+  "competitor": "clay",
+  "type": "pricing",
+  "summary": "Data-warehouse connection (Snowflake, Fivetran, Postgres, Databricks, BigQuery) moved from Growth ($446/mo) to Enterprise only; Growth card dropped \"Auto-sync with data warehouse\". Prices unchanged.",
+  "source": "https://www.clay.com/pricing"
+ },
+ {
+  "date": "2026-11-09",
+  "competitor": "gong",
+  "type": "ai",
+  "summary": "Agent Builder explainer by VP Product: custom agents on Revenue Graph and Revenue Harness turn call-derived signals into actions; MCP extends Skills and agents. No price or GA date.",
+  "source": "https://www.gong.io/blog/gong-agent-builder-revenue-signals-action"
+ },
+ {
+  "date": "2026-11-09",
+  "competitor": "rox",
+  "type": "launch",
+  "summary": "Rox Browser Extension terms published (last updated Nov 8): capture from a webpage, query a third-party enrichment provider, write to connected CRM; sites not named.",
+  "source": "https://www.rox.com/legal/rox-browser-extension-terms-of-use"
+ },
+ {
+  "date": "2026-11-09",
+  "competitor": "lusha",
+  "type": "site",
+  "summary": "Public \"What's new in Lusha\" releases page added to nav (18 entries, API/MCP filters; newest Oct 26 CRM AutoSync).",
+  "source": "https://www.lusha.com/releases/"
+ },
+ {
+  "date": "2026-11-09",
+  "competitor": "apollo",
+  "type": "x",
+  "summary": "X: TAM-sizing prompt for Apollo's AI assistant (Nov 9) and scheduled agents setup (Nov 7).",
+  "source": "https://x.com/useapolloio/status/2119828080810188972"
+ },
+ {
+  "date": "2026-11-09",
+  "competitor": "us",
+  "type": "site",
+  "summary": "No change: Sales Navigator plans, product-update and help pages unchanged since Nov 6. No public MCP.",
+  "source": "https://business.linkedin.com/sell/sales-navigator/compare-plans"
  }
 ]
