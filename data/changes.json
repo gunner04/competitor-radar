@@ -479,7 +479,7 @@
   "date": "2026-11-06",
   "competitor": "salesforce",
   "type": "site",
-  "summary": "Agentforce Memory policy update (blog Nov 3): 1.8\u00d7 stated-fact recall, 2.2\u00d7 on facts that change; GA since September.",
+  "summary": "Agentforce Memory policy update (blog Nov 3): 1.8× stated-fact recall, 2.2× on facts that change; GA since September.",
   "source": "https://www.salesforce.com/blog/agentforce-memory-update/"
  },
  {
@@ -536,6 +536,55 @@
   "competitor": "us",
   "type": "site",
   "summary": "No change: Sales Navigator plans, product-update and help pages unchanged since Nov 6. No public MCP.",
+  "source": "https://business.linkedin.com/sell/sales-navigator/compare-plans"
+ },
+ {
+  "date": "2026-11-11",
+  "competitor": "zoominfo",
+  "type": "launch",
+  "summary": "GTM Context Graph product page (first seen; linked from homepage): graph of accounts, contacts, engagements, signals; exposed to agents \"through APIs and MCP\". X post same day pitches buying-committee mapping beyond org charts. No price.",
+  "source": "https://www.zoominfo.com/gtm-context-graph"
+ },
+ {
+  "date": "2026-11-11",
+  "competitor": "actively",
+  "type": "launch",
+  "summary": "Zillow Rentals rolling out Actively agents after a 4-week pilot (Nov 10); Zillow building a \"Sales Hub\" on Actively APIs. Actively cites 80%+ approval and action rates.",
+  "source": "https://www.actively.ai/blog/actively-zillow-rentals-proactive-ai-agents"
+ },
+ {
+  "date": "2026-11-11",
+  "competitor": "clay",
+  "type": "launch",
+  "summary": "Roundup week of Nov 2 (dated Nov 9): Definitive Healthcare integration, Workflow Templates, Salesforce proxy support, Audiences segment tags.",
+  "source": "https://www.clay.com/changelog"
+ },
+ {
+  "date": "2026-11-11",
+  "competitor": "salesforce",
+  "type": "ai",
+  "summary": "ROI Report: Sales Cloud Agents (Nov 10), survey of 24 customers: agents save reps an average of six hours per week; 63% report more accurate CRM data.",
+  "source": "https://www.salesforce.com/news/stories/how-ai-agents-improve-crm-data-accuracy/"
+ },
+ {
+  "date": "2026-11-11",
+  "competitor": "apollo",
+  "type": "x",
+  "summary": "X: video on building a sequence-ready audience with the Apollo MCP (Nov 11).",
+  "source": "https://x.com/useapolloio/status/2120504085304500285"
+ },
+ {
+  "date": "2026-11-11",
+  "competitor": "unify",
+  "type": "site",
+  "summary": "Removed \"Compare\" nav links (vs Apollo, Clay, Outreach, Salesloft, others).",
+  "source": "https://www.unifygtm.com"
+ },
+ {
+  "date": "2026-11-11",
+  "competitor": "us",
+  "type": "site",
+  "summary": "No change: Sales Navigator plans, product-update and help pages unchanged since Nov 9. No public MCP.",
   "source": "https://business.linkedin.com/sell/sales-navigator/compare-plans"
  }
 ]
