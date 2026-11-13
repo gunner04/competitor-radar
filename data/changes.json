@@ -586,5 +586,47 @@
   "type": "site",
   "summary": "No change: Sales Navigator plans, product-update and help pages unchanged since Nov 9. No public MCP.",
   "source": "https://business.linkedin.com/sell/sales-navigator/compare-plans"
+ },
+ {
+  "date": "2026-11-13",
+  "competitor": "rox",
+  "type": "launch",
+  "summary": "$100M Series B at $1.3B valuation (Nov 11), co-led by General Catalyst and March Capital; Rox cites >700% NRR and plans a 5x US commercial team (Fortune).",
+  "source": "https://www.prnewswire.com/news-releases/rox-raises-100-million-series-b-at-1-3-billion-valuation-to-grow-revenue-for-the-global-2000--302936434.html"
+ },
+ {
+  "date": "2026-11-13",
+  "competitor": "rox",
+  "type": "ai",
+  "summary": "Databricks Ventures strategic investment (Nov 13): warehouse-native revenue agent on Unity Catalog; buyers can apply Rox spend to their Databricks commit.",
+  "source": "https://www.rox.com/articles/rox-announces-strategic-investment-from-databricks-ventures-as-part-of-100m-series-b-at-1.3b-valuation"
+ },
+ {
+  "date": "2026-11-13",
+  "competitor": "outreach",
+  "type": "changelog",
+  "summary": "November release (Nov 12 to Dec 8): 11 new MCP server tools (end-to-end sequence build, calls, Kaia scorecards, email/LinkedIn/SMS template search); MCP connectors accept org or personal API keys; Amplify add-on.",
+  "source": "https://support.outreach.io/support/solutions/articles/159000437513-outreach-product-release-notes-november-2026"
+ },
+ {
+  "date": "2026-11-13",
+  "competitor": "hubspot",
+  "type": "site",
+  "summary": "Leadership transition (Nov 12): co-founder Brian Halligan returns as CEO to lead a \"refounding\"; Yamini Rangan steps down; guidance reaffirmed.",
+  "source": "https://www.hubspot.com/company-news/leadership-transition"
+ },
+ {
+  "date": "2026-11-13",
+  "competitor": "usergems",
+  "type": "site",
+  "summary": "FAQ now says high-intent accounts surface \"within hours\" (was \"within days\"); Planful story retitled to ABM & events from Claude via UserGems MCP.",
+  "source": "https://www.usergems.com/"
+ },
+ {
+  "date": "2026-11-13",
+  "competitor": "us",
+  "type": "site",
+  "summary": "No change: Sales Navigator plans, product-update and help pages unchanged since Nov 11. No public MCP.",
+  "source": "https://business.linkedin.com/sell/sales-navigator/compare-plans"
  }
 ]
