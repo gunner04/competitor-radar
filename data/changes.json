@@ -663,5 +663,75 @@
   "type": "site",
   "summary": "No change: Sales Navigator plans, product-update and help pages unchanged since Nov 13. No public MCP.",
   "source": "https://business.linkedin.com/sell/sales-navigator/compare-plans"
+ },
+ {
+  "date": "2026-11-18",
+  "competitor": "zoominfo",
+  "type": "ai",
+  "summary": "ChatGPT for Sales launch partner (Nov 17): ZoomInfo Sales plugin on GTM.ai with seven workflows and interactive list-builder views (\"Get a working ZoomInfo list back, not a text table\").",
+  "source": "https://www.businesswire.com/news/home/20261117926049/en/ZoomInfo-Launches-Sales-Plugin-Extensions-for-ChatGPT-Through-GTM.AI"
+ },
+ {
+  "date": "2026-11-18",
+  "competitor": "clay",
+  "type": "ai",
+  "summary": "Relaunched Clay MCP plugin for ChatGPT for Sales (Nov 17): build audiences, enrichment workflows and Sequencer campaigns in chat; works on every plan including free, same credits as the app.",
+  "source": "https://www.unite.ai/clay-adds-sales-workflow-building-and-previews-to-chatgpt-plugin/"
+ },
+ {
+  "date": "2026-11-18",
+  "competitor": "commonroom",
+  "type": "ai",
+  "summary": "ChatGPT for Sales partner (Nov 17): plain-English segments, bulk actions, sequence enrollment; lists up to 1,000 records sorted by recent activity or job changes.",
+  "source": "https://www.commonroom.io/blog/chatgpt-for-sales/"
+ },
+ {
+  "date": "2026-11-18",
+  "competitor": "rox",
+  "type": "ai",
+  "summary": "\"Rox in ChatGPT for Sales\" (Nov 17): prospect and reach out from chat; Dots agents watch deals and prep meetings.",
+  "source": "https://x.com/rox_ai/status/2122823653670998051"
+ },
+ {
+  "date": "2026-11-18",
+  "competitor": "hubspot",
+  "type": "pricing",
+  "summary": "\"HubSpot is headless\" pricing (Nov 17): Claude/ChatGPT/Gemini/Copilot access, MCP server and Agent CLI included per seat; third-party agents use plan API capacity, no credits; governed agent environment runs on credits (rates not published). CRM now in the ChatGPT sidebar (Nov 18).",
+  "source": "https://www.hubspot.com/company-news/pricing-headless"
+ },
+ {
+  "date": "2026-11-18",
+  "competitor": "salesforce",
+  "type": "launch",
+  "summary": "Copilotforce with Microsoft (Nov 17, Ignite): Salesforce in Microsoft Copilot (public preview, 38+ sales skills via Salesforce MCP), grounded in Outlook and Teams relationships; Sales Cloud in Teams in pilot; Data 360 and Fabric zero-copy.",
+  "source": "https://www.salesforce.com/news/stories/copilotforce-announcement/"
+ },
+ {
+  "date": "2026-11-18",
+  "competitor": "zoominfo",
+  "type": "site",
+  "summary": "\"Paid for once\" pages now served on 1 of 22 loads (5 of 12 on Nov 16); old homepage and pricing are the default again.",
+  "source": "https://www.zoominfo.com/pricing"
+ },
+ {
+  "date": "2026-11-18",
+  "competitor": "lusha",
+  "type": "x",
+  "summary": "X: Lusha Signals (job changes, promotions, hiring surges) now in the HubSpot App Marketplace (Nov 18).",
+  "source": "https://x.com/LushaData/status/2123076178445578565"
+ },
+ {
+  "date": "2026-11-18",
+  "competitor": "gong",
+  "type": "jobs",
+  "summary": "Jobs: \"Land\" sales roles re-titled \"Foundations\"; 78 to 74 unique titles.",
+  "source": "https://boards.greenhouse.io/gongio"
+ },
+ {
+  "date": "2026-11-18",
+  "competitor": "us",
+  "type": "site",
+  "summary": "No change: Sales Navigator plans, product-update and help pages unchanged since Nov 16. Not named among ChatGPT for Sales or Microsoft Copilot sales plugins. No public MCP.",
+  "source": "https://business.linkedin.com/sell/sales-navigator/compare-plans"
  }
 ]
