@@ -479,7 +479,7 @@
   "date": "2026-11-06",
   "competitor": "salesforce",
   "type": "site",
-  "summary": "Agentforce Memory policy update (blog Nov 3): 1.8× stated-fact recall, 2.2× on facts that change; GA since September.",
+  "summary": "Agentforce Memory policy update (blog Nov 3): 1.8\u00d7 stated-fact recall, 2.2\u00d7 on facts that change; GA since September.",
   "source": "https://www.salesforce.com/blog/agentforce-memory-update/"
  },
  {
@@ -732,6 +732,97 @@
   "competitor": "us",
   "type": "site",
   "summary": "No change: Sales Navigator plans, product-update and help pages unchanged since Nov 16. Not named among ChatGPT for Sales or Microsoft Copilot sales plugins. No public MCP.",
+  "source": "https://business.linkedin.com/sell/sales-navigator/compare-plans"
+ },
+ {
+  "date": "2026-11-20",
+  "competitor": "actively",
+  "type": "ai",
+  "summary": "Actively plugin for ChatGPT (Nov 19): per-account intelligence in ChatGPT Work or Codex, with prompts for account selection and \"who the rep should contact next\". AppFolio rolled out Actively agents to BDR and AE teams (Nov 19).",
+  "source": "https://www.actively.ai/blog/actively-now-available-in-chatgpt"
+ },
+ {
+  "date": "2026-11-20",
+  "competitor": "rox",
+  "type": "launch",
+  "summary": "Integration with Microsoft Dynamics 365 Sales (release dated Nov 19): deploy the Rox revenue agent alongside an existing Dynamics CRM.",
+  "source": "https://www.rox.com/articles/rox-announces-new-integration-with-microsoft-dynamics-365-sales"
+ },
+ {
+  "date": "2026-11-20",
+  "competitor": "outreach",
+  "type": "ai",
+  "summary": "Outreach Skills for ChatGPT (21 workflows) and new MCP connectors incl. G2 intent (Nov 18). Skills require the Amplify add-on with MCP Server enabled.",
+  "source": "https://www.outreach.ai/company/newsroom/outreachs-headless-architecture-powers-new-outreach-skills-for-chatgpt-as-its-connector-suite-for-mcp-tm-grows"
+ },
+ {
+  "date": "2026-11-20",
+  "competitor": "commonroom",
+  "type": "launch",
+  "summary": "Nov 18 release (Common Room by Zoom): ChatGPT app \"included on every Common Room plan. No upsell.\"; enrichment and prospecting in Zoom Revenue Accelerator; Fast Enrichment API; Agentic Workflow Builder in ZRA Elite; Luma event signals.",
+  "source": "https://www.commonroom.io/blog/agentic-workflows-richer-data-smarter-outreach/"
+ },
+ {
+  "date": "2026-11-20",
+  "competitor": "salesforce",
+  "type": "pricing",
+  "summary": "Agentforce Coworker update (Nov 19): 185,000+ users (vendor-reported); $50 per user per month SKU and Microsoft 365 / Google Workspace connections available now; Teams app and Coworker MCP server GA in November; scheduled tasks in December.",
+  "source": "https://www.salesforce.com/news/stories/agentforce-coworker-surpasses-185k-users/"
+ },
+ {
+  "date": "2026-11-20",
+  "competitor": "clay",
+  "type": "pricing",
+  "summary": "Pricing grid adds CLI/API search caps per 30 days (Free 100, Launch and Growth 1M, Enterprise 10M), global agent from Launch up, and Clay MCP for Reps on all plans (first seen Nov 20).",
+  "source": "https://www.clay.com/pricing"
+ },
+ {
+  "date": "2026-11-20",
+  "competitor": "apollo",
+  "type": "launch",
+  "summary": "Nevara co-founders join Apollo R&D (Nov 18) to deliver the GTM Harness, 24x7 background agents and call intelligence; trade press reports an acquisition.",
+  "source": "https://www.apollo.io/magazine/nevara-co-founders-join-apollo-to-build-the-future-of-ai-go-to-market"
+ },
+ {
+  "date": "2026-11-20",
+  "competitor": "zoominfo",
+  "type": "launch",
+  "summary": "Qualified (Salesforce) upgraded Piper's ZoomInfo integration to the GTM.AI API for reverse-IP company and contact enrichment (Nov 20).",
+  "source": "https://www.businesswire.com/news/home/20261120860655/en/Qualified-Upgrades-Its-ZoomInfo-Integration-to-the-GTM.AI-API-Bringing-Verified-Company-and-Contact-Data-to-Piper"
+ },
+ {
+  "date": "2026-11-20",
+  "competitor": "zoominfo",
+  "type": "site",
+  "summary": "\"Paid for once\" pages served on 7 of 18 loads (1 of 22 on Nov 18); test still running.",
+  "source": "https://www.zoominfo.com/pricing"
+ },
+ {
+  "date": "2026-11-20",
+  "competitor": "hubspot",
+  "type": "ai",
+  "summary": "HubSpot Shipped (Nov 19): agents in Breeze Assistant on mobile. Governed-agent credit rates still unpublished.",
+  "source": "https://www.hubspot.com/new"
+ },
+ {
+  "date": "2026-11-20",
+  "competitor": "gong",
+  "type": "ai",
+  "summary": "November release: API / MCP usage and rate-limit report for admins (hourly allowed and denied calls by endpoint or tool).",
+  "source": "https://help.gong.io/docs/generate-an-api-and-mcp-usage-report"
+ },
+ {
+  "date": "2026-11-20",
+  "competitor": "unify",
+  "type": "jobs",
+  "summary": "Jobs: added BDR Manager and SDR Manager; 9 to 11 unique titles.",
+  "source": "https://jobs.ashbyhq.com/unify"
+ },
+ {
+  "date": "2026-11-20",
+  "competitor": "us",
+  "type": "site",
+  "summary": "No change: Sales Navigator plans, product-update and help pages unchanged since Nov 18. Not named in this window's ChatGPT or Dynamics partner launches. No public MCP.",
   "source": "https://business.linkedin.com/sell/sales-navigator/compare-plans"
  }
 ]
