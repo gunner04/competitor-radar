@@ -824,5 +824,75 @@
   "type": "site",
   "summary": "No change: Sales Navigator plans, product-update and help pages unchanged since Nov 18. Not named in this window's ChatGPT or Dynamics partner launches. No public MCP.",
   "source": "https://business.linkedin.com/sell/sales-navigator/compare-plans"
+ },
+ {
+  "date": "2026-11-23",
+  "competitor": "salesforce",
+  "type": "pricing",
+  "summary": "Agentforce add-ons list price raised from $125 to $150 per user/month; Industries add-ons from $150 to $175 (changed between Nov 20 and Nov 23, no announcement). Coworker $50, User License $5 and Max Edition from $550 unchanged.",
+  "source": "https://www.salesforce.com/agentforce/pricing/"
+ },
+ {
+  "date": "2026-11-23",
+  "competitor": "zoominfo",
+  "type": "launch",
+  "summary": "GTM One rolling out: a 'next generation ZoomInfo product' that unifies Copilot, SalesOS, GTM Workspace, Chorus and GTM Studio on a Context Graph that combines ZoomInfo data with the customer's CRM, calendars, inboxes and call recordings. Admin-enabled; onboarding webinars Nov 24, Nov 30 and Dec 3.",
+  "source": "https://gtm.ai/docs/gtm-one/home/overview-of-gtmone"
+ },
+ {
+  "date": "2026-11-23",
+  "competitor": "zoominfo",
+  "type": "x",
+  "summary": "Partner early-access walkthroughs of GTM One (video Nov 18, Home screenshot Nov 20). Posted by members of ZoomInfo's partner program.",
+  "source": "https://x.com/harriskennyx/status/2123055374873907330"
+ },
+ {
+  "date": "2026-11-23",
+  "competitor": "commonroom",
+  "type": "ai",
+  "summary": "Nov 20 feature list: the Chrome extension shows Common Room profiles in a side pane on LinkedIn, Salesforce, HubSpot, Outreach, Salesloft and Nooks, and 'Add and enrich contact' pulls people in from LinkedIn. Included on all plans.",
+  "source": "https://www.commonroom.io/blog/ai-sales-agents-human-approval-new-features/"
+ },
+ {
+  "date": "2026-11-23",
+  "competitor": "zoominfo",
+  "type": "launch",
+  "summary": "monday CRM integration through the API Connector, powered by GTM.AI (Nov 23). Enrichment uses ZoomInfo credits.",
+  "source": "https://www.zoominfo.com/newsroom/press-releases/monday-crm-zoominfo-api-integration"
+ },
+ {
+  "date": "2026-11-23",
+  "competitor": "zoominfo",
+  "type": "site",
+  "summary": "'Paid for once' variant still in rotation: 3 of 11 homepage loads and 6 of 11 pricing loads (7 of 18 on Nov 20).",
+  "source": "https://www.zoominfo.com/pricing"
+ },
+ {
+  "date": "2026-11-23",
+  "competitor": "gong",
+  "type": "site",
+  "summary": "Homepage rebuilt: the headline is now 'More wins, less work.', the title changed from 'Revenue AI OS' to 'Revenue AI', and the 'Product' nav is now 'Platform'.",
+  "source": "https://www.gong.io/"
+ },
+ {
+  "date": "2026-11-23",
+  "competitor": "actively",
+  "type": "changelog",
+  "summary": "Blog (Nov 20): 'Goal Engineering: How LangChain and Actively Design Agent Goals'. Actively now calls itself one of OpenAI's launch partners for ChatGPT for Sales.",
+  "source": "https://www.actively.ai/blog"
+ },
+ {
+  "date": "2026-11-23",
+  "competitor": "salesloft",
+  "type": "jobs",
+  "summary": "Jobs: 21 to 24 unique titles (finance and customer success roles).",
+  "source": "https://job-boards.greenhouse.io/salesloft"
+ },
+ {
+  "date": "2026-11-23",
+  "competitor": "us",
+  "type": "site",
+  "summary": "No change: Sales Navigator plans, product-update and help pages unchanged since Nov 20. Still not listed in ChatGPT for Sales. No public MCP.",
+  "source": "https://business.linkedin.com/sell/sales-navigator/compare-plans"
  }
 ]
