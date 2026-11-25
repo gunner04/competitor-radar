@@ -479,7 +479,7 @@
   "date": "2026-11-06",
   "competitor": "salesforce",
   "type": "site",
-  "summary": "Agentforce Memory policy update (blog Nov 3): 1.8\u00d7 stated-fact recall, 2.2\u00d7 on facts that change; GA since September.",
+  "summary": "Agentforce Memory policy update (blog Nov 3): 1.8× stated-fact recall, 2.2× on facts that change; GA since September.",
   "source": "https://www.salesforce.com/blog/agentforce-memory-update/"
  },
  {
@@ -894,5 +894,68 @@
   "type": "site",
   "summary": "No change: Sales Navigator plans, product-update and help pages unchanged since Nov 20. Still not listed in ChatGPT for Sales. No public MCP.",
   "source": "https://business.linkedin.com/sell/sales-navigator/compare-plans"
+ },
+ {
+  "date": "2026-11-25",
+  "competitor": "us",
+  "type": "site",
+  "summary": "LinkedIn Download-my-data page now carries a notice (seen by users Nov 19 and 22): from December 2026 the connections export drops email address, current company and job title; first name, last name, URL and connected-on date remain. No LinkedIn announcement or help-page update yet (third-party reporting). Favours us: relationship tools lose an input; the full network stays in LinkedIn.",
+  "source": "https://tin.computer/blog/export-linkedin-connections"
+ },
+ {
+  "date": "2026-11-25",
+  "competitor": "us",
+  "type": "ai",
+  "summary": "OpenAI plugin directory lists a LinkedIn plugin (developer LinkedIn): look up a professional by name, see title, company, location, follower count. Lookup only; no Sales Navigator listing, no public Sales Navigator MCP (trade reports: SNAP closed to new partners; Hiring Pro in Claude Oct 21).",
+  "source": "https://openai.com/business/plugins/linkedin/"
+ },
+ {
+  "date": "2026-11-25",
+  "competitor": "zoominfo",
+  "type": "pricing",
+  "summary": "GTM One pricing model (Q3 call Nov 4; credits doc Nov 13): hybrid fixed data-credit arrangements plus AI credits; MCP, CLI and API draw from the same pools; no published credit prices; GTM One also inside Salesforce (Nov 9). Pricing-page nav variant now groups by use case and role with Build with ZoomInfo: API, MCP, CLI. Paid for once seen on 4/8 homepage and 3/8 pricing loads.",
+  "source": "https://gtm.ai/docs/gtm-one/audiences/overview-of-credits"
+ },
+ {
+  "date": "2026-11-25",
+  "competitor": "salesforce",
+  "type": "changelog",
+  "summary": "Agentforce Coworker: scheduled tasks and Daily Digest still expected in December 2026; Teams, mobile, desktop and Coworker MCP server GA in November. Agentforce add-ons still $150 (Industries $175).",
+  "source": "https://www.salesforce.com/news/stories/agentforce-coworker-surpasses-185k-users/"
+ },
+ {
+  "date": "2026-11-25",
+  "competitor": "clay",
+  "type": "ai",
+  "summary": "OpenAI customer story (Nov 24): Clay in ChatGPT and Codex on GPT-6 models; Clay says it is working on inbound sales development features that would let an agent show a product to a prospect.",
+  "source": "https://openai.com/business/customer-stories/clay-plugins-openai/"
+ },
+ {
+  "date": "2026-11-25",
+  "competitor": "lusha",
+  "type": "site",
+  "summary": "Homepage now says 32 signal types (26 on Nov 23); pricing page text now includes the plan table (Starter $49.90 a month, Pro $69.90, Premium $399.90, Scale custom; credits 400, 600, 3,400); earlier capture lacked the table so a price change cannot be confirmed.",
+  "source": "https://www.lusha.com/pricing/"
+ },
+ {
+  "date": "2026-11-25",
+  "competitor": "rox",
+  "type": "changelog",
+  "summary": "Release notes Nov 25: Apps on Home widgets and local calling hours in Sequences and Dialer (rolling out).",
+  "source": "https://docs.rox.com/development/release-notes/release-notes"
+ },
+ {
+  "date": "2026-11-25",
+  "competitor": "usergems",
+  "type": "launch",
+  "summary": "Redesigned AI Chrome Extension (Nov 20): Gem-E panel inside Salesforce, HubSpot, Outreach, Salesloft and Gong Engage; site navigation renamed (Data and Signals, Research Agent, Writing Agent).",
+  "source": "https://www.usergems.com/news/usergems-redesigned-ai-chrome-extension"
+ },
+ {
+  "date": "2026-11-25",
+  "competitor": "clay",
+  "type": "jobs",
+  "summary": "Jobs (raw posting counts, Nov 23 to 25): Clay 57 to 60; ZoomInfo 92 to 93; Salesloft 26 to 24; Actively 20 to 18; Cognism 15 to 14.",
+  "source": "https://jobs.ashbyhq.com/claylabs"
  }
 ]
