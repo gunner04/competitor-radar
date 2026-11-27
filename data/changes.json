@@ -957,5 +957,54 @@
   "type": "jobs",
   "summary": "Jobs (raw posting counts, Nov 23 to 25): Clay 57 to 60; ZoomInfo 92 to 93; Salesloft 26 to 24; Actively 20 to 18; Cognism 15 to 14.",
   "source": "https://jobs.ashbyhq.com/claylabs"
+ },
+ {
+  "date": "2026-11-27",
+  "competitor": "us",
+  "type": "baseline",
+  "summary": "LinkedIn Help (Download your data) now states that beginning December 20, 2026 the connections export drops connections' email address, current company and title (name, profile URL and connected-on date stay), citing connections' privacy. Went viral Nov 26-27 (two X posts ~804K and ~455K impressions, wrongly citing Dec 1); India Today covered it Nov 27. Favours us on D2.",
+  "source": "https://www.linkedin.com/help/linkedin/answer/a1339364"
+ },
+ {
+  "date": "2026-11-27",
+  "competitor": "zoominfo",
+  "type": "api",
+  "summary": "ZoomInfo Bulk API (Nov 24): one asynchronous job searches, matches and enriches up to 100,000 records (vs 10,000 via standard Search APIs), CSV/JSON/JSONL in and out; consumes data credits under the Records Under Management model, no public rates. GTM One Slack search previews Nov 25. Paid for once on 3/8 homepage and 4/8 pricing loads.",
+  "source": "https://gtm.ai/releases"
+ },
+ {
+  "date": "2026-11-27",
+  "competitor": "cognism",
+  "type": "ai",
+  "summary": "New MCP & API product page (nav item marked New): MCP connector read-only for Claude/ChatGPT, Connect API for CRMs and warehouses; one credit pool across MCP, API, platform and extension, no separate MCP subscription; territories and per-rep credit limits carry over to agents. No published rates.",
+  "source": "https://www.cognism.com/mcp-api"
+ },
+ {
+  "date": "2026-11-27",
+  "competitor": "salesforce",
+  "type": "changelog",
+  "summary": "Agentforce Coworker scheduled tasks and Daily Digest still expected in December 2026; no change on Agentforce pricing (add-ons $150).",
+  "source": "https://www.salesforce.com/news/stories/agentforce-coworker-surpasses-185k-users/"
+ },
+ {
+  "date": "2026-11-27",
+  "competitor": "hubspot",
+  "type": "pricing",
+  "summary": "Reported catalog figures (PPC Land via Business of GTM, Nov 25): API capacity packs $500 a month, max two; credits $0.010 pay-as-you-go. Governed agent-at-scale rates still unpublished.",
+  "source": "https://businessofgtm.com/articles/outreach-hubspot-chatgpt-agent-pricing"
+ },
+ {
+  "date": "2026-11-27",
+  "competitor": "monaco",
+  "type": "site",
+  "summary": "Two comparison posts Nov 26 listing Monaco against Salesforce, HubSpot, Gong, Outreach, Apollo and Clay.",
+  "source": "https://www.monaco.com/blog"
+ },
+ {
+  "date": "2026-11-27",
+  "competitor": "zoominfo",
+  "type": "jobs",
+  "summary": "Jobs (raw posting counts, Nov 25 to 27): ZoomInfo 93 to 89; Rox 39 to 41; Clay 61 to 62; Gong 81 to 82. No Black Friday offers on any tracked vendor's pricing page.",
+  "source": "https://boards.greenhouse.io/zoominfo"
  }
 ]
